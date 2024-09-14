@@ -1,0 +1,19 @@
+{
+  "name": "proyecto8---asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jorge ramirez jwramirezc@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
